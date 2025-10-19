@@ -71,5 +71,6 @@ SCREENSHOTS
 
 <img width="1920" height="1080" alt="Screenshot 2025-10-19 191018" src="https://github.com/user-attachments/assets/973e841c-2c28-4037-bc00-43b01134a95a" />
 
+<img width="1920" height="1080" alt="Screenshot 2025-10-19 191056" src="https://github.com/user-attachments/assets/bc7b85c9-01ff-48c0-82bc-0a96b26c601c" />
 
 
