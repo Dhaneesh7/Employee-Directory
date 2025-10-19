@@ -67,4 +67,9 @@ npm start
 
 Backend GraphQL API is available at http://localhost:4000/graphql.
 
+SCREENSHOTS
+
+<img width="1920" height="1080" alt="Screenshot 2025-10-19 191018" src="https://github.com/user-attachments/assets/973e841c-2c28-4037-bc00-43b01134a95a" />
+
+
 
