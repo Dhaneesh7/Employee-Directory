@@ -69,8 +69,7 @@ Backend GraphQL API is available at http://localhost:4000/graphql.
 
 SCREENSHOTS
 
-<img width="1920" height="1080" alt="Screenshot 2025-10-19 191018" src="https://github.com/user-attachments/assets/973e841c-2c28-4037-bc00-43b01134a95a" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-19 191056" src="https://github.com/user-attachments/assets/e32c56bf-02b8-4362-b365-f4485f948a02" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-10-19 191056" src="https://github.com/user-attachments/assets/bc7b85c9-01ff-48c0-82bc-0a96b26c601c" />
-
+<img width="1920" height="1080" alt="Screenshot 2025-10-19 191056" src="https://github.com/user-attachments/assets/05b9d55b-7548-4916-b96c-6363c1b25482" />
 
