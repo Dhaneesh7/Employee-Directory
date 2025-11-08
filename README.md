@@ -56,10 +56,10 @@ npm start
 
 ### Frontend
 
-1. Go to the `backend` folder:
+1. Go to the `frontend` folder:
 
 
-cd backend
+cd frontend 
 
 npm install
 
